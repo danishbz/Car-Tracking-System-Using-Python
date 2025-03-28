@@ -34,11 +34,11 @@ Make sure the required libraries are installed, specifically opencv-python, nump
 
 2. Run the main code:
 
-Create a Tracker class instance and utilize it in a video feed to track cars.
+    Create a Tracker class instance and utilize it in a video feed to track cars.
 
 3. Analyze Video:
 
-Use the function count_cars_going_left(file: str, debug=False) to analyze video files, which will output the total number of cars and cars per minute.
+    Use the function count_cars_going_left(file: str, debug=False) to analyze video files, which will output the total number of cars and cars per minute.
 
 ## How It Works
 
